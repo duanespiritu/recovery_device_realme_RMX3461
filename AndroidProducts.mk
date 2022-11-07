@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_marmalade.mk
+    $(LOCAL_DIR)/twrp_RMX3461.mk
     
 COMMON_LUNCH_CHOICES := \
-    twrp_marmalade-eng
+    twrp_RMX3461-eng
